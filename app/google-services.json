@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "455852321708",
+    "firebase_url": "https://newagent-e634e.firebaseio.com",
+    "project_id": "newagent-e634e",
+    "storage_bucket": "newagent-e634e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455852321708:android:2f97cba8a1e14de2",
+        "android_client_info": {
+          "package_name": "org.kurukshetra.stark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455852321708-tfs5m209va4b27c122d7igcqjutshcjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kurukshetra.stark",
+            "certificate_hash": "f3b0ef9ae5568a8577902739f0bac7df91c9c0c0"
+          }
+        },
+        {
+          "client_id": "455852321708-s7kiedkce4sncnk5fgj0i7eb6ge5hcq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZP99c_FB4wBw_cjXsqiwdi83qq-I4c7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455852321708-s7kiedkce4sncnk5fgj0i7eb6ge5hcq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
